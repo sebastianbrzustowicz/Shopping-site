@@ -1,4 +1,4 @@
-# Shopping-site
+# Shopping-webapp
 Shopping site about herbs. Created to practice backend skills.
 
 Welcome page:
