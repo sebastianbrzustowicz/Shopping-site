@@ -1,5 +1,5 @@
 # Shopping-webapp
-Shopping site about herbs. Created to practice backend skills.
+Shopping webapp about herbs. Created to practice backend skills.
 
 Welcome page:
 ![shopping_site](https://github.com/sebastianbrzustowicz/Shopping-site/assets/66909222/796d7eaa-c53a-4e0c-8536-9173aa30384e)
