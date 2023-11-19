@@ -1,10 +1,10 @@
 # Shopping-webapp
-Shopping webapp about herbs. Created to practice backend skills.
+Shopping webapp about herbs. Regardless of the site's design, it has an extensive backend with MSSQL.
 
-Welcome page:
-![shopping_site](https://github.com/sebastianbrzustowicz/Shopping-site/assets/66909222/796d7eaa-c53a-4e0c-8536-9173aa30384e)
+Shopping page:
+![Zrzut ekranu 2023-11-19 175000](https://github.com/sebastianbrzustowicz/Shopping-webapp/assets/66909222/b41d6615-7583-40d2-b0ea-c13e5a498764)
 
 Login view:
-![login_view](https://github.com/sebastianbrzustowicz/Shopping-site/assets/66909222/d8fb77fe-95ed-4c34-9443-05899b4dbcce)
+![Zrzut ekranu 2023-11-19 174943](https://github.com/sebastianbrzustowicz/Shopping-webapp/assets/66909222/f41e6f4f-93de-43b5-8129-18728f7a11a6)
 
-There is also control panel for administrator. 
+There is also control panel for administrator where orders or users could be reviewed and managed.
