@@ -1,0 +1,109 @@
+body {
+    //background-image: url("herbs.jpg"); no-repeat center center fixed; 
+    background: linear-gradient(90deg, rgba(78,78,83,1) 0%, rgba(0,130,30,0.7708333333333334) 29%, rgba(40,40,42,1) 100%);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color: #04AA6D;
+    //border: none;
+    color: white;
+    padding: 10px 16px;
+    text-decoration: none;
+    margin: 10px 8px;
+    cursor: pointer;
+  }
+  
+  div {text-align: center;}
+  .form-signin {
+     max-width: 330px;
+     padding: 15px;
+     margin: 0 auto;
+  }
+  divl {text-align: left;}
+  .form-signin {
+     max-width: 330px;
+     padding: 15px;
+     margin: 200px;
+  }
+  
+  
+  .form-signin .form-signin-heading,
+  .form-signin .checkbox {
+     margin-bottom: 10px;
+  }
+  
+  .form-signin .checkbox {
+     font-weight: normal;
+  }
+  
+  .form-signin .form-control {
+     position: relative;
+     height: auto;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+     padding: 10px;
+     font-size: 16px;
+  }
+  
+  .form-signin .form-control:focus {
+     z-index: 2;
+  }
+  
+  .form-signin input[type="email"] {
+     margin: 10px 10px 10px 10px;
+  
+  }
+  
+  .form-signin input[type="password"] {
+     margin: 10px 10px 10px 10px;
+  
+  }
+  h1 {text-align: center;background: rgba(76, 175, 80, 0.9);color: black;}
+  h3 {text-align: center;}
+  h4 {text-align: left;}
+  p {text-align: center;}
+  c {background: rgba(76, 175, 80, 0.4);font-size: 20px;}
+  div {text-align: center;}
+      
+  .column {
+    float: left;
+    width: 24%;
+    margin: 40px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .titleStyle {
+	background-color: green !important;
+	width: 400px;
+	margin: auto;
+	border-radius: 10px;
+	font-size: 60px;
+}
+
+.newButton {
+	border-radius: 10px;
+	background-color: green;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: green;
+  //border: none;
+  color: black;
+  padding: 10px 16px;
+  text-decoration: none;
+  margin: 10px 8px;
+  cursor: pointer;
+  border-radius: 50px;
+  font-weight: bold;
+}
